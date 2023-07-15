@@ -43,6 +43,6 @@
     </table>
     <div class="card" style="width: 18rem;">
         <img src="{{ $project->image }}" alt="{{ $project->title }}"></td>
-      </div>
+    </div>
 
 @endsection
